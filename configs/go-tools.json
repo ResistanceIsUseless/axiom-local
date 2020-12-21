@@ -149,6 +149,42 @@
             "url":"github.com/theblackturtle/fprobe",
             "author":"theblackturtle",
             "v11":"true"
+        },
+        {  
+            "name":"gowitness",
+            "url":"github.com/sensepost/gowitness",
+            "author":"senspost",
+            "v11":"false"
+        },
+        {  
+            "name":"kerbrute",
+            "url":"github.com/ropnop/kerbrute",
+            "author":"ropnop",
+            "v11":"false"
+        },
+        {  
+            "name":"dnsx",
+            "url":"github.com/projectdiscovery/dnsx/cmd/dnsx",
+            "author":"@projectdiscovery",
+            "v11":"true"
+        },
+        {  
+            "name":"hakrawler",
+            "url":"github.com/hakluke/hakrawler",
+            "author":"hakluke",
+            "v11":"false"
+        },
+        {  
+            "name":"gorecon",
+            "url":"github.com/devanshbatham/gorecon",
+            "author":"devanshbatham",
+            "v11":"false"
+        },
+        {  
+            "name":"subjs",
+            "url":"github.com/lc/subjs",
+            "author":"lc",
+            "v11":"true"
         }
     ]
 }
